@@ -1,7 +1,7 @@
 <h1> Jandres Profile <h1/>
 
 
-<h2 align ="left"> 📈 Activity Graphs </h2>
+<h2 align ="left"> 📈 Activity Graphs</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jandres1420&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jandres1420&theme=2077)
